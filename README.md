@@ -4,7 +4,17 @@ Welcome to the **Auto Garage Template** repository! This is a simple ``Website T
 
 ## 🚀 Showcase
 
-![website preview](https://github.com/DeadGolden0/HTML-CommingSoon/blob/main/assets/images/screenshot.png)
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/hero.png)
+
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/about.png)
+
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/why.png)
+
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/services.png)
+
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/faq.png)
+
+![website preview](https://github.com/DeadGolden0/Auto-Garage-Template/blob/main/assets/img/showcase/contact.png)
 
 ## 🤝 Contributing
 
